@@ -1,0 +1,21 @@
+{
+  "name": "cogniangularpractice",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "vishal18-gupta <vishal18.gupta@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/vishal18-gupta/CogniAngularPractice",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.0",
+    "angular-sanitize": "^1.6.0"
+  }
+}
