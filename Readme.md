@@ -5,10 +5,6 @@ bower install angular --save
 bower install angular-sanitize
 bower install bootstrap
 
-npm install typings --save
+npm install typings --global
 
-
-
-
-
-
+typings install dt~angular --global
